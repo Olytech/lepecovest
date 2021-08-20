@@ -3,9 +3,9 @@
 
     <head>
         <meta charset="utf-8" />
-        <title>House Deals Africa</title>
+        <title>Leptons EcoVest</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta content="House Deals Africa Admin Laravel Dashboard" name="description" />
+        <meta content="Leptons EcoVest" name="description" />
         <meta content="Themesbrand" name="author" />
         <!-- App favicon -->
         <link rel="shortcut icon" href="assets/images/favicon.ico">
@@ -37,8 +37,8 @@
                                     <a href="index.html"><img src="assets/images/logo-dar.png" height="22" alt="logo"></a>
                                 </div>
 
-                                <h4 class="font-size-18 mt-5 text-center">Become a Partner</h4>
-                                <p class="text-muted text-center">Get your free House Deals account now.</p>
+                                <h4 class="font-size-18 mt-5 text-center">Become an EcoVesta</h4>
+                                <p class="text-muted text-center">Sign Up with Leptons EcoVest.</p>
 
                                 @if ($errors->any())
                                     @foreach ($errors->all() as $error)
@@ -78,7 +78,7 @@
 
                                 <div class="form-group  mb-0 row">
                                     <div class="col-12 ">
-                                        <p class="mb-0">By registering you agree to the House Deals <a href="#" class="text-primary">Terms of Use</a></p>
+                                        <p class="mb-0">By registering you agree to the Leptons EcoVest<a href="#" class="text-primary">Terms of Use</a></p>
                                     </div>
                                 </div>
 
@@ -86,7 +86,7 @@
 
                             <div class="mt-3 text-center">
                                 <p>Already have an account ? <a href="{{route('login')}}" class="font-weight-medium text-primary"> Login </a> </p>
-                                <p>© <script>document.write(new Date().getFullYear())</script> Powered by Incendium Digitals</p>
+                                <p>© <script>document.write(new Date().getFullYear())</script> Leptons Multiconcept</p>
                             </div>
 
                         </div>

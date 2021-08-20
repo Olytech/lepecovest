@@ -3,9 +3,9 @@
 
     <head>
         <meta charset="utf-8" />
-        <title>House Deals Africa</title>
+        <title>Leptons EcoVest</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta content="House Deals Africa Admin Laravel Dashboard" name="description" />
+        <meta content="Leptons EcoVest" name="description" />
         <meta content="Themesbrand" name="author" />
         <!-- App favicon -->
         <link rel="shortcut icon" href="assets/images/favicon.ico">
@@ -38,7 +38,7 @@
                                 </div>
 
                                 <h4 class="font-size-18 mt-5 text-center">Welcome Back !</h4>
-                                <p class="text-muted text-center">Sign in to continue to House Deals Africa.</p>
+                                <p class="text-muted text-center">Sign in to continue to Leptons EcoVest.</p>
 
                                 @if ($errors->any())
                                     @foreach ($errors->all() as $error)
@@ -82,7 +82,7 @@
 
                             <div class="mt-5 pt-4 text-center">
                                 <p>Don't have an account ? <a href="{{route('register')}}" class="font-weight-medium text-primary"> Signup now </a> </p>
-                                <p>© <script>document.write(new Date().getFullYear())</script> Powered by Incendium Digitals</p>
+                                <p>© <script>document.write(new Date().getFullYear())</script> Powered by Leptons Multiconcept</p>
                             </div>
 
                         </div>
