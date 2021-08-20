@@ -1,0 +1,22 @@
+-------------------- Auto-Git Log --------------------
+		Fri Aug 20 2021 02:41:01 GMT-0700 (Pacific Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* resources/views/admin/listing.blade.php
+* resources/views/admin/listings.blade.php
+* resources/views/admin/member.blade.php
+* resources/views/admin/members.blade.php
+* resources/views/admin/notifications.blade.php
+* resources/views/admin/reviews.blade.php
+* resources/views/auth/login.blade.php
+* resources/views/auth/register.blade.php
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
